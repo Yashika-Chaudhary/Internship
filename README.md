@@ -1,2 +1,2 @@
 # Internship
-Fliprobo Internship 
+Fliprobo Internship in Data Science 
